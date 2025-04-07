@@ -801,7 +801,8 @@
   "world.effect.nether_barrens.hint": "Две стихии",
   "world.effect.nether_barrens.name": "Бесплодные биомы Незера",
   "world.effect.nether_forests.description": "Can't see the forest for the... fungi?",
-  "world.effect.nether_forests.hint": "Находится путём бийства эндерменов",
+  "world.effect.nether_forests.hint": "Находится путём убийства эндерменов",
+
   "world.effect.nether_forests.name": "Биомы незерских лесов",
   "world.effect.no_drops.description": "Who needs it?",
   "world.effect.no_drops.hint": "Found by chance",
