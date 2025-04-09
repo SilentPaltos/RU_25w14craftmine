@@ -891,7 +891,7 @@
   "world.effect.ultrawarm.hint": "Поплавай в лаве... если осмелишься",
   "world.effect.ultrawarm.name": "Ultrawarm",
   "world.effect.universal_anger.description": "Все нейтральные мобы враждебны",
-  "world.effect.universal_anger.hint": "Win a mine с игредиентом \"Пчёлы\"",
+  "world.effect.universal_anger.hint": "Win a mine с ингредиентом \"Пчёлы\"",
   "world.effect.universal_anger.name": "(Почти) слепая ярость",
   "world.effect.unlock": "Вынесите из шахты, чтобы получить как ингредиент",
   "world.effect.unlocked": "Разблокирован новый ингредиент шахты: %s",
