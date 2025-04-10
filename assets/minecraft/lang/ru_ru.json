@@ -94,7 +94,7 @@
   "block.minecraft.dimension_control": "Контроллер измерения",
   "block.minecraft.enter_mine_gateway": "Enter Mine Gateway",
   "block.minecraft.mine_crafter": "Верстальщик шахт",
-  "block.minecraft.mine_revisitor": "Сохранятель шахт",
+  "block.minecraft.mine_revisitor": "Загрузчик шахт",
   "block.minecraft.mine_travelling_block": "Mine Travelling Block",
   "block.minecraft.mob_trophy": "Трофей",
   "block.minecraft.shimmering_door": "Мерцающая дверь",
