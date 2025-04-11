@@ -936,7 +936,7 @@
   "world.event.ender_dragon": "Эндер-дракон появляется",
   "world.event.enderman": "Эндермен появляется",
   "world.event.next_wave": "Следующая волна",
-  "world.event.remaining": "Остались мобы",
+  "world.event.remaining": "Мобов осталось",
   "world.event.warden": "Хранитель появляется",
   "world.event.wither": "Визер появляется",
   "world.mine": "Шахта %s",
